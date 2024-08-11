@@ -1,0 +1,59 @@
+.mobile .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 15.4px;
+  height: 79.69px;
+  justify-content: center;
+  margin-left: 6.7px;
+  position: relative;
+  width: 320.59px;
+}
+
+.mobile .stay-connected {
+  color: var(--concord);
+  font-family: var(--font-family-rajdhani);
+  font-size: 23.1px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.96px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.mobile .frame-1000001240 {
+  align-items: center;
+  display: flex;
+  gap: 7.7px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.mobile .facebook-icon {
+  height: 35.29px;
+  min-width: 22.96px;
+  position: relative;
+}
+
+.mobile .icon-linkedin {
+  height: 35.29px;
+  min-width: 35.29px;
+  position: relative;
+}
+
+.mobile .medium-icon {
+  height: 28.88px;
+  min-width: 134.75px;
+  position: relative;
+}
+
+.mobile .youtube-icon {
+  height: 30.8px;
+  min-width: 104.48px;
+  position: relative;
+}
+

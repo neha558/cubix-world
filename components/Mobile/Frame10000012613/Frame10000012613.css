@@ -1,0 +1,56 @@
+.mobile .frame-1000001261 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5.02px;
+  height: 103px;
+  position: relative;
+  width: 184px;
+}
+
+.mobile .q1-2022-whitepaper-a-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20.0px;
+  margin-top: -0.63px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.mobile .q1-2022-whitepaper-a-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.mobile .frame-1000001261.frame-1000001273 {
+  gap: 5.44px;
+  height: unset;
+  left: 24px;
+  position: absolute;
+  top: 32px;
+}
+
+.mobile .frame-1000001261.frame-1000001273 .q1-2022-whitepaper-a-4,
+.mobile .frame-1000001261.frame-1000001274 .q1-2022-whitepaper-a-4,
+.mobile .frame-1000001261.frame-1000001275 .q1-2022-whitepaper-a-4 {
+  margin-top: -0.78px;
+}
+
+.mobile .frame-1000001261.frame-1000001274 {
+  gap: 5.44px;
+  height: 82.44px;
+  margin-left: 25.1px;
+  margin-top: 32.0px;
+  width: 184.38px;
+}
+
+.mobile .frame-1000001261.frame-1000001275 {
+  gap: 5.44px;
+  height: 120.44px;
+  margin-left: 20.7px;
+  margin-top: 32.0px;
+  width: 184.38px;
+}
+

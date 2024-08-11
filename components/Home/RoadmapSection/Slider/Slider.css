@@ -1,0 +1,15 @@
+.home .slick-prev {
+    left: 3% !important;
+    z-index: 1;
+}
+.home .slick-next {
+    right: 3% !important;
+    z-index: 1;
+}
+.home .roadmap-carousel-div {
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    margin-right: 0;
+    display: block;
+}

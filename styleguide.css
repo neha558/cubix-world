@@ -1,0 +1,212 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --background: #000000;
+  --concord: #7b7b7b;
+  --eerie-black: #1b1b1b;
+  --scooter: #34cbd1;
+  --white: #ffffff;
+ 
+  --font-size-l: 18.2px;
+  --font-size-m: 17.8px;
+  --font-size-xl: 18.3px;
+  --font-size-xxl: 19.4px;
+  --font-size-xxxl: 19.8px;
+  --font-size-xxxxl: 22.6px;
+  --font-size-xxxxxl: 25px;
+
+  --m-font-size-l: 14px;
+  --m-font-size-m: 13.8px;
+  --m-font-size-s: 11.6px;
+  --m-font-size-xl: 15.1px;
+  --m-font-size-xxl: 15.7px;
+  --m-font-size-xxxl: 16px;
+  --m-font-size-xxxxl: 17.6px;
+
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-rajdhani: "Rajdhani", Helvetica;
+}
+.rajdhani-medium-concord-25px {
+  color: var(--concord);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-medium-white-22-6px {
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-medium-scooter-22-6px {
+  color: var(--scooter);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-medium-white-22-6px-2 {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-normal-white-17-8px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-medium-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-semi-bold-white-18-3px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.rajdhani-normal-white-18-2px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-normal-white-18-3px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-normal-white-19-4px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-semi-bold-white-45px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.rajdhani-normal-white-19-8px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+/*Mobile*/
+
+.rajdhani-medium-concord-16px {
+  color: var(--concord);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-medium-white-17-6px {
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-medium-scooter-17-6px {
+  color: var(--scooter);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-medium-white-17-6px-2 {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.rajdhani-normal-white-13-8px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.rajdhani-normal-white-15-1px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rajdhani-semi-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.rajdhani-semi-bold-white-15-7px {
+  color: var(--white);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}

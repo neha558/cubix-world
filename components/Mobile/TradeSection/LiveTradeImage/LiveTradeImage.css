@@ -1,0 +1,134 @@
+.mobile .group-1000001266 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  min-width: 271px;
+}
+
+.mobile .overlap-group4 {
+  height: 158px;
+  position: relative;
+  width: 271px;
+}
+
+.mobile .mobile .device-macbook-air {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 158px;
+  position: absolute;
+  top: 0;
+  width: 271px;
+}
+
+.mobile .mobile .overlap-group3 {
+  height: 155px;
+  position: relative;
+  width: 271px;
+}
+
+.mobile .overlap-group-6 {
+  align-items: center;
+  background-color: #1a202c;
+  border: 0.64px solid;
+  border-color: #4a5568;
+  border-radius: 8.99px 8.99px 1.28px 1.28px;
+  display: flex;
+  flex-direction: column;
+  left: 26px;
+  min-height: 151px;
+  padding: 1.4px 1.3px;
+  position: absolute;
+  top: 0;
+  width: 219px;
+}
+
+.mobile .overlap-group1-3 {
+  align-items: flex-end;
+  background-color: var(--background);
+  border-radius: 7.07px 7.07px 0px 0px;
+  display: flex;
+  height: 144px;
+  margin-right: 0;
+  min-width: 216px;
+  padding: 6.0px 5.6px;
+}
+
+.mobile .screen-wrap {
+  background-color: var(--white);
+  height: 130px;
+  width: 204px;
+}
+
+.mobile .macbook-air {
+  color: #a0aec0;
+  font-family: var(--font-family-inter);
+  font-size: 4.2px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 3.8px;
+  margin-right: 2.01px;
+  text-align: center;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.mobile .bottom {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 150px;
+  width: 271px;
+}
+
+.mobile .overlap-group2 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(13, 16, 18) 0%, rgb(202.46, 212.31, 218.88) 2.95%, rgb(36, 39, 41) 6.25%, rgb(163.39, 171.82, 177.44) 13.36%, rgb(163, 172, 177) 86.6%, rgb(36, 39, 41) 94.19%, rgb(202, 212, 219) 97.13%, rgb(13, 16, 18) 99.64%);
+  border-radius: 0.64px 0.64px 0px 0px;
+  display: flex;
+  height: 2px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 271px;
+  padding: 0.0px 115.2px;
+  position: absolute;
+  top: 0;
+}
+
+.mobile .groove {
+  height: 2px;
+  width: 40px;
+}
+
+.mobile .bottom-curve {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 271px;
+}
+
+.mobile .shadow {
+  background-color: var(--background);
+  border-radius: 121.5px/1.36px;
+  filter: blur(14.13px);;
+  height: 3px;
+  margin-left: 0.27px;
+  width: 243px;
+}
+
+.mobile .new-marketplace-land {
+  color: var(--background);
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--m-font-size-s);
+  font-weight: 600;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 146px;
+}
+

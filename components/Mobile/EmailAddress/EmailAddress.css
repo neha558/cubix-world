@@ -1,0 +1,79 @@
+.mobile .email-address {
+  align-items: flex-end;
+  background-color: var(--eerie-black);
+  border: 1px solid;
+  border-color: #0000001a;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 54px;
+  padding: 15px 21px 15px 20px;
+  position: relative;
+  width: 332px;
+}
+
+.mobile .frame-4 {
+  align-items: center;
+  display: flex;
+  gap: 164px;
+  margin-left: -16.00px;
+  padding: 0px 7px;
+  position: relative;
+  width: 307px;
+}
+
+.mobile .email-address-1 {
+  color: #777e90;
+  font-family: var(--font-family-rajdhani);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: 121px;
+}
+
+.mobile .arrow-left {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  margin-right: -16.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.mobile .group-1000001250 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.mobile .overlap-group-9 {
+  height: 21px;
+  position: relative;
+  top: 2px;
+  width: 23px;
+}
+
+.mobile .polygon-2 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 23px;
+}
+
+.mobile .arrow-1 {
+  height: 7px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-180deg);
+  width: 8px;
+}
+

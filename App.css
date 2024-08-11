@@ -1,0 +1,17 @@
+.hover-animate-link-with-color:hover {
+    background: linear-gradient(267.39deg, #6FEEFF 1.27%, #4BB3ED 38.03%, #00FF94 75.57%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    /*transform: scale(1.2);*/
+}
+
+.hover-link-with-color:hover {
+    background: linear-gradient(267.39deg, #6FEEFF 1.27%, #4BB3ED 38.03%, #00FF94 75.57%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    display: block;
+}
